@@ -49,3 +49,11 @@ flex-direction: row;
     font-size: small;
   
 }
+.menu ul li{
+    color: #f9f7f7;
+    display: inline-block;
+    padding: 3px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition-duration: 0.4s;
+}
