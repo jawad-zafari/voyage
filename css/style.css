@@ -7,3 +7,14 @@ max-width: 100%;
   margin: 0;
   padding: 0;
 }
+.logo{
+    margin-top: 10px;
+    font-size: small;
+display: flex;
+flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin: auto;
+}
