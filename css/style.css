@@ -191,3 +191,12 @@ form { text-align: center;
 background-color: #12a835;
 transform: scale(1.1);
 }
+footer{
+    margin: auto;
+    font-size: x-small;
+    text-align: center;
+    background-color: #04124a;
+    max-width: 100%;
+    padding: 10px;
+    padding-top: 5px;
+}
