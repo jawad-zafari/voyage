@@ -217,5 +217,92 @@ footer img{
     font-size: 0.4;
 }
 @media screen and (min-width: 1024px) {
-    
+    body {
+        background-size: cover;
+    }
+    .logo {
+        text-align: center;
+        font-size: medium;
+        justify-content: center;
+        margin-left: 50px;
+    }
+
+    .menu {
+        width: 80%;
+    }
+
+    .menu ul {
+        gap: 40px;
+    }
+
+    .menu ul li {
+        font-size: 1.1rem;
+        padding: 10px 20px;
+    }
+
+    .menu ul li ul {
+        margin-left: -19px;
+        width: 200px;
+        margin-top: 10px;
+    }
+    .menu ul li ul li ul{
+        margin-left: 180px;
+        margin-top: -25px;
+
+    }
+    .main {
+        font-size: large;
+        max-width: 1200px;
+        flex-direction: row;
+        padding-left: 10px;
+        padding: 0%;
+        gap: 0;
+    }
+    .main img{
+        width: 650px;
+        /* height: 450px; */
+        margin-top: 0%;
+    }
+
+    .h1 {
+        font-size: 2.5rem;
+        width: 100%;
+    }
+    .dest {
+        max-width: 500px;
+        height: 600px;
+        font-size: large;
+        margin: 7px;
+    }
+
+    .dest img {
+        width: 500px;
+        height: 350px;
+    }
+
+    .destin {
+        gap: 20px;
+        flex-direction: row;
+    }
+    .contact {
+        width: 800px;
+        padding: 40px;
+    }
+
+    .contact h2 {
+        font-size: 2rem;
+    }
+
+    .form-group input,
+    .form-group textarea {
+        width: 600px;
+    }
+    .footer {
+        gap: 300px;
+        font-size: small;
+    }
+
+    footer img {
+        width: 150px;
+    }
 }
