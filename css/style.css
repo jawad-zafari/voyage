@@ -162,3 +162,13 @@ form { text-align: center;
 .form-group {
     margin-bottom: 20px;
 }
+.form-group input,
+.form-group textarea {
+    width: 310px;
+    /* max-width: 100%; */
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: inherit;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.427);
+}
