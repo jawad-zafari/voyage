@@ -25,3 +25,10 @@ flex-direction: row;
     text-align: center;
     margin: auto;
 }
+.menu ul{
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    gap: 10px;
+    position: relative;
+}
