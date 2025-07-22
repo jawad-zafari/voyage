@@ -80,3 +80,13 @@ header img{
     background-color: #f8f8f8;
     margin: 0;
 }
+.facts h2{
+    color: #0a3161;
+    text-align: center;
+    margin: 20px;
+}
+.disc{
+    text-align: center;
+    font-size: small;
+    margin: 20px;
+}
