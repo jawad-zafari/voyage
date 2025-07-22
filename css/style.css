@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    color: #f9f7f7;
+background: linear-gradient(to right, #48589a, #3d6cac, #a18cd1, #de7b29);
+max-width: 100%;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
