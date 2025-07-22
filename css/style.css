@@ -104,3 +104,14 @@ a{
     text-align: center;
     color: #f9f7f7;
     font-size: 1.7rem;}
+    .dest{
+        font-size: xx-small;
+    text-align: center;
+    max-width: 350px;
+    height: 330px;
+    background-color: #f9f7f732;
+    border-radius: 5px;
+    padding: 5px;
+    transition: transform 0.7s ease;
+    box-shadow: 0 0 5px rgb(34, 24, 24);
+}
