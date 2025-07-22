@@ -90,3 +90,18 @@ header img{
     font-size: small;
     margin: 20px;
 }
+table {
+    color: #0a3161;
+    width: 100%;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
