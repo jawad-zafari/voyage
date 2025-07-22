@@ -57,3 +57,6 @@ flex-direction: row;
     font-family: Georgia, 'Times New Roman', Times, serif;
     transition-duration: 0.4s;
 }
+.menu ul li:hover>ul{
+    display: block;
+}
