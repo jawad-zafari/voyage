@@ -200,3 +200,11 @@ footer{
     padding: 10px;
     padding-top: 5px;
 }
+.footer{
+    font-size: xx-small;
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+    justify-content: center;
+
+}
