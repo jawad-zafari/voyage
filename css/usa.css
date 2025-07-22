@@ -122,3 +122,25 @@ padding-top: 0%;
     justify-content: center;
     gap: 30px;
 }
+.slide {
+
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 20px;
+}
+
+.item {
+    color: #170653;
+    flex: 0 0 auto;
+    width: 300px;
+    border-color: #f4f2f2;
+    /* background: linear-gradient(45deg, #f84646 0%, #547ff3 50%, #f2eeee 100%); */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.item img{
+    width: 100%;
+    border-radius: 8px;
+}
