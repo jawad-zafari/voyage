@@ -43,3 +43,9 @@ flex-direction: row;
     display: none;
       margin-top: 3px;
 }
+.menu ul li ul li{
+    display: block;
+    width: 45%;
+    font-size: small;
+  
+}
