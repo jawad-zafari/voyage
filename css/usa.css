@@ -17,3 +17,26 @@ header img{
     box-shadow: 0 0 5px white;
     border-radius: 30px;
 }
+.usa{
+    width: 100%;
+    max-height: 400px;
+    /* object-fit: cover; */
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 0%;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+.cont p{
+    text-align: center;
+    border-radius: 5px;
+    background: #81b3f451;
+    width: auto;
+    font-size: small;
+    padding: 5px;
+    margin: auto;
+}
