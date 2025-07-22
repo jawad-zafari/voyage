@@ -18,3 +18,10 @@ flex-direction: row;
     max-width: 100%;
     margin: auto;
 }
+.menu{
+    background-color: #f7f7f82f;
+    border-radius: 5px;
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+}
