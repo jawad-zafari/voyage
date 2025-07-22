@@ -175,3 +175,15 @@ form { text-align: center;
 .form-group textarea {
     height: 150px;
 }
+.btn{
+    width: 90px;
+    padding: 10px;
+    border: solid 1px rgb(248, 246, 246);
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #418af0;
+    font-size: large;
+    color: #ddd;
+    transition: all 0.5s ease;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.571);
+}
