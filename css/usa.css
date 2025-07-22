@@ -144,3 +144,34 @@ padding-top: 0%;
     width: 100%;
     border-radius: 8px;
 }
+footer{
+    margin: auto;
+    font-size: x-small;
+    text-align: center;
+ background: linear-gradient(
+  135deg,
+  #de1a37 0%,
+  #1a0b8e 50%,
+  #dfdede 100%);
+    max-width: 100%;
+    padding: 10px;
+    padding-top: 5px;
+    margin-top: 10px;
+    color: #ddd;
+}
+.footer{
+    font-size: xx-small;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+padding-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: #f5f4f4;
+}
+footer img{
+    width: 70px;
+}
