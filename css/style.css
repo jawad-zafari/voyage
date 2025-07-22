@@ -172,3 +172,6 @@ form { text-align: center;
     font-family: inherit;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.427);
 }
+.form-group textarea {
+    height: 150px;
+}
