@@ -105,3 +105,20 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
+.conseil{
+color: #0a3161;
+border-radius: 5px;
+border: solid 1px white;
+padding: 10px;
+padding-top: 0%;
+}
+.conseil h2{
+    padding-left: 30px;
+}
+.lien{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
